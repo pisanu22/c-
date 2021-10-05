@@ -1,0 +1,34 @@
+1 error: 'cout' was not declared in this scope
+     cout << "Hello World.";
+
+2 error: '::main' must return 'int'
+ void main()
+
+3 error: '::main' must return 'int'
+ void main()
+
+4 Hello World.
+
+5 Welcome toC++ language.
+
+6 This is structure of C++ language.
+
+7 This is structure of 
+C++ language.
+
+2 Lab2.cpp:5:55: error: expected primary-expression before ';' token
+     std:cout << "I like information Technology \n." <<;
+                                                       ^
+  Lab2.cpp:6:5: error: duplicate label 'std'
+     std:cout << "I want to Programmer." << endl;
+
+Student Code : 6406021420352 
+Student Name : Pisanu Prasongsub
+    Division : Information Technology
+        Year : 1
+        Room : RA
+         Sex : Male
+         Age : 21
+      Height : 169
+      Weight : 59
+  Blood Type : A
